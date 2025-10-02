@@ -18,10 +18,10 @@ void main(){
       //for dark theme
       darkTheme: ThemeData.dark().copyWith(useMaterial3: true,
       colorScheme: kDarkColorScheme,
-       cardTheme: CardTheme().copyWith(
-      color: kDarkColorScheme.primaryContainer,
-      margin: EdgeInsets.symmetric(horizontal: 16,vertical: 8),
-     ),
+    //    cardTheme: CardTheme().copyWith(
+    //   color: kDarkColorScheme.primaryContainer,
+    //   margin: EdgeInsets.symmetric(horizontal: 16,vertical: 8),
+    //  ),
      elevatedButtonTheme: ElevatedButtonThemeData(style: ElevatedButton.styleFrom(
       backgroundColor: kDarkColorScheme.primaryContainer,
       foregroundColor: kDarkColorScheme.onPrimaryContainer,
@@ -37,10 +37,10 @@ void main(){
      // foregroundColor: kColorScheme.primaryContainer
      foregroundColor: Colors.white
      ),
-     cardTheme: CardTheme().copyWith(
-      color: kColorScheme.primaryContainer,
-      margin: EdgeInsets.symmetric(horizontal: 16,vertical: 8),
-     )  ,
+    //  cardTheme: CardTheme().copyWith(
+    //   color: kColorScheme.primaryContainer,
+    //   margin: EdgeInsets.symmetric(horizontal: 16,vertical: 8),
+    //  )  ,
      elevatedButtonTheme: ElevatedButtonThemeData(style: ElevatedButton.styleFrom(
       backgroundColor: kColorScheme.primaryContainer
      )),
