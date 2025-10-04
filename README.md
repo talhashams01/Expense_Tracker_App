@@ -14,4 +14,4 @@ The *Expense Tracker App* allows users to manage daily spending and track expens
 ---
 
 ### 🔗 Links
-- GitHub: [Repository Link](YOUR_REPO_LINK)
+- GitHub: [Repository Link](https://github.com/talhashams01/Expense_Tracker_App.git)
